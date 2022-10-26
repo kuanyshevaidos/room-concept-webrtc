@@ -1,2 +1,2 @@
 # room-concept-webrtc
-Peer to Peer / Group videochat via webrtc. Room concept implementation.
+1 to 1 / small group videochat via webrtc. Room concept implementation.
